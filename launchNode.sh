@@ -1,0 +1,1 @@
+sudo java -jar libs/selenium-server-standalone-3.141.59.jar -role node -hub  http://192.168.1.3:4444/grid/register
